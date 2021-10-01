@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="label_new_task">Create a Task</string>
+    <string name="label_title">Title</string>
+    <string name="label_description">Explanation</string>
+    <string name="label_date">Date</string>
+    <string name="label_hour">Hour</string>
+    <string name="label_btn_cancel">Cancel</string>
+    <string name="label_tasks">My Todos</string>
+    <string name="label_description_new_task">New Todo</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_empty_task">Henüz herhangi bir göreviniz yok!</string>
+</resources>
